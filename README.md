@@ -35,7 +35,7 @@ The induction began with a warm and engaging welcome from **Taranpreet Kaur**, w
 
 ---
 
-## Academic Guidance by Dr. Akshay Giddar – Dean of Academics  
+## Academic Guidance by Dr. Akshay Girdhar – Dean of Academics  
 **Dr. Akshay Giddar** inspired students to explore beyond the syllabus, experiment with ideas, and keep learning for overall personal growth.
 
 ---
@@ -256,3 +256,36 @@ Very helpful for students planning to buy laptops soon.
   - **Internal evaluations**  
   - **Final exams**  
   - **Mid-Semester Tests (MSTs)**
+
+### Id card formation (2:00 PM - 4:30 PM)
+- After break we went for identity card formation in TCC Seminal hall.
+
+# Day 6  
+**Date:** 6th August 2025  
+
+## Chemistry Lecture (9:30 AM – 10:30 AM)  
+**Teacher:** Prof. Mandeep Kaur  
+- Talked about college facilities  
+- Explained details about MSTs  
+- Discussed syllabus requirements  
+- Covered some basic concepts of Chemistry  
+
+## Maths Lecture (10:30 AM – 11:30 AM)  
+**Teacher:** Prof. Gagandeep Kaur  
+- Gave tips on improving academic performance  
+- Guided on effective time management  
+- Advised on avoiding academic backlogs  
+
+## Seminar (After Break)  
+**Speaker:** Sr. Gurcharan Singh Grewal *(Trustee, Nankana Sahib Education Trust)*  
+- Shared information about the college and its campus  
+- Spoke about the learning environment and quality of education  
+- Highlighted the kindness and helpfulness of faculty members  
+
+## Lecture on CML Club  
+**Speaker:** Dr. Lakhvir Singh Khana *(Incharge, Centre of Multi-Faceted Learning)*  
+- Provided an overview of the CML Club's activities  
+- Gave details about NPTEL courses  
+- Explained the process of joining the club  
+- Discussed opportunities available to members  
+
