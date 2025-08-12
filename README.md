@@ -289,3 +289,38 @@ Very helpful for students planning to buy laptops soon.
 - Explained the process of joining the club  
 - Discussed opportunities available to members  
 
+# Day 7  
+**Date:** 7th August 2025  
+
+## Lecture (9:30 AM – 10:30 AM)  
+**Speaker:** Amit Kamra *(Incharge, Digital Marketing Club)*  
+- Introduced the Digital Marketing Club  
+- Encouraged participation through:
+  - Making reels  
+  - Designing posters  
+  - Creating advertisement content  
+  - Producing short videos on the college and the induction program  
+
+## Lecture (10:30 AM – 11:30 AM)  
+**Speaker:** Dr. Parminder Singh *(Dean – Student Welfare)*  
+- Explained the societies and clubs in the college  
+- Discussed how they help students with problems  
+- Highlighted opportunities for overall growth  
+
+## Lecture (11:30 AM – 12:30 PM)  
+**Speaker:** Dr. Randheer Singh  
+- Explained how exams are organized  
+- Shared rules for attendance  
+- Talked about updates in the academic curriculum  
+
+## BEEE Class (1:30 PM – 2:30 PM)  
+**Teacher:** Prof. Harminder Kaur  
+- Provided syllabus details  
+- Started the first unit: **D.C. Circuits**  
+
+## P2P Lecture (2:30 PM – 3:30 PM)  
+**By:** Senior Students  
+- Shared personal college experiences  
+- Recommended skills to develop during the 4 years  
+- Continued teaching the next part of **C++ programming**
+  
