@@ -324,3 +324,19 @@ Very helpful for students planning to buy laptops soon.
 - Recommended skills to develop during the 4 years  
 - Continued teaching the next part of **C++ programming**
   
+# Day 8  
+**Date:** 8th August 2025  
+
+## Lecture (9:00 AM – 10:30 AM)  
+**Speaker:** Mrs. Shaffy Makkar  
+**Topic:** *Millets – Super Food*  
+- Spoke about the importance of adding millets to our diet  
+- Explained correct way to consume millets  
+- Suggested changes in eating habits similar to the time before the Green Revolution, when millets were a regular part of meals  
+
+## Mathematics Lecture (10:30 AM – 12:00 PM)  
+**Teacher:** Prof. Gagandeep Kaur Lotey  
+- Taught basic concepts such as the number line  
+- Discussed the syllabus and study approach  
+- Encouraged balancing academics with skill development  
+- Made learning easier by connecting topics with spirituality and daily life activities.
